@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZY9EhTIttZvzm0PL+lOE5h38G7ZW/luXG6vhnJV6DjuiB3xvZi2FtqL3e58jEEpfejeOmCvw9DtfAU+yW0YcA==",
+  "dgSpecHash": "dllWbb60Z+XqfdEkcEJ9bWMR2TKgosnosGeYDbKpjlIxTVDLsAudYNqMz7gMT/rwcCCkkwKwkbT1qYTwa3YxIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Medifine\\Medifine.csproj",
+  "projectFilePath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Test\\Medifine\\Medifine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
